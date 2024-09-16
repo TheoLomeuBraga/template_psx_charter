@@ -1,7 +1,3 @@
-walk animation full body
-
-walk animation legs only
-
 shoot animation
 
 sword animation
